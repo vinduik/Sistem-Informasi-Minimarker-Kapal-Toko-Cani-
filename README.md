@@ -37,5 +37,6 @@ Toko Cani dikembangkan untuk membantu pelaku usaha toko dalam meningkatkan efisi
 Aplikasi ini dapat terus dikembangkan sesuai kebutuhan operasional, seperti penyempurnaan laporan, pengelolaan piutang dan utang, serta pengembangan fitur manajemen toko lainnya.
 
 ---
+## 🚀 Database Kontak Saya 
 
 **Toko Cani — Solusi Digital untuk Manajemen Toko yang Lebih Mudah dan Terintegrasi.**
