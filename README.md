@@ -1,5 +1,5 @@
 # 🏪 TOKO CANI
-### Sistem Informasi Manajemen Toko & Point of Sale (POS) (Mini Market Kapa)
+### Sistem Informasi Manajemen Toko & Point of Sale (POS) (Mini Market Kapal)
 
 **Toko Cani** adalah aplikasi berbasis web yang dirancang untuk membantu pengelolaan operasional toko secara terintegrasi, mulai dari transaksi penjualan, pembelian barang, pengelolaan stok persediaan, hingga penyusunan laporan usaha.
 
